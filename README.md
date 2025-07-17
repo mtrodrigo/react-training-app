@@ -45,4 +45,4 @@ Este é um repositório protegido criado para fins educacionais. Para contribuir
 # Criação
 ### Rodrigo Marques Tavares
 
-[Email: rodrigour@gmail.com](rodrigour@gmail.com)
+[📧 rodrigour@gmail.com](mailto:rodrigour@gmail.com)
