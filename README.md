@@ -14,6 +14,8 @@ Este repositório contém uma aplicação de lista de tarefas (Todo App) intenci
 - Estudo de padrões de código em TypeScript
 - Prática de contribuição em projetos protegidos (via fork e PR)
 
+### [Ver código resolvido no GitHub](https://github.com/mtrodrigo/react-training-app-resolvido.git)
+
 ## Política de Contribuição
 
 Este é um repositório protegido criado para fins educacionais. Para contribuir:
